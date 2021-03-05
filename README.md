@@ -4,3 +4,4 @@
 
 1) Recursive Java Program to reverse an array
 2) Java Program to find sum of elements in a given array
+3) Program to print all prime factors 
