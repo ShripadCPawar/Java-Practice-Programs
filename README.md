@@ -7,3 +7,4 @@
 <b>3) Program to print all prime factors.</b><br>
 <b>4) Java Program to Convert a Decimal Number to Binary & Count the Number of 1s.</b><br>
 <b>5) Java Applet :- Display a Digital Clock. </b><br>
+<b>6) Prime Number Program</b><br>
