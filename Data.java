@@ -54,7 +54,7 @@ class Data {
 		        manf = 10.0 / 100 * value_item;
 		        if (manf <= 100) manf += 5;
 		        else if (manf >= 100 && manf <= 200) manf += 10;
-		        else manf += 5.0 / 100 * (manf + value_item); // 5 % of final cost which means original price + tax
+		        else manf += 5.0 / 100 * (manf + value_item); // 5% of final cost which means original price + tax
 		   
 				
 					//Output
